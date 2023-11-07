@@ -10,9 +10,23 @@
 5. End the begin section.
 
 ### Program:
+```
+DEVELOPED BY: Barath S
+REG NO: 212222230018
+```
 
+```
+declare
+a number :=10;
+b number :=20;
+begin
+dbms_output.put_line(a+b);
+dbms_output.put_line(a-b);
+end;
+```
 
 ### Output:
+![image](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/ca244df1-b136-4b51-abb1-e99402105b6b)
 
 
 ### Result:
