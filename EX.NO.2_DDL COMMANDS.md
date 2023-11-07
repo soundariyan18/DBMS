@@ -21,53 +21,83 @@ To create a student database and execute DDL queries using SQL.
 5. RENAME: This is used to rename an object existing in the database.
 
 ## Query:
+```
+DEVELOPED BY: Barath S
+REG MO: 212222230018
+```
 ### 1) Create a database studentdb
 
 ### SQL QUERY:
+```
+create database student_db;
+```
 
 ### OUTPUT:
+![model](o1.png)
 
 ### 2) Create a table student with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
 ### SQL QUERY: 
+```
+create table student(Regno int,Name varchar(20),Age int,Address varchar(50),Phonenumber varchar(10));
+```
 
 
 ### OUTPUT:
+![model](o2.png)
 
 ### 3) Alter the above student table by adding another attribute department
 
 ### SQL QUERY: 
+```
+alter table student
+add dept varchar(20);
+```
 
 ### OUTPUT:
+![model](o3.png)
 
 
 ### 4) Drop the student table
  
 ### SQL QUERY: 
+```
+drop table student;
+```
 
 
 ### OUTPUT:
+![model](o4.png)
 
 
 ### 5) Delete the student table using truncate keyword
 
 ### SQL QUERY: 
+```
+truncate table student;
+```
 
 
 ### OUTPUT:
+![model](o5.png)
 
 
 
 ### 6) Rename the student table to mystudent
 
 ### SQL QUERY: 
+```
+alter table student
+rename to mystudent;
+```
 
 
 
 ### OUTPUT:
+![model](o6.png)
 
 
 ## Result:
-         Thus the basic DDL commands in SQL are executed. 
+Thus the basic DDL commands in SQL are executed. 
 
 
