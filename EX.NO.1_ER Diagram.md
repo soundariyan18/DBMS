@@ -13,12 +13,33 @@
 5. Specify attributes unique, multivalued and composite attributes.
 
 ### ER Diagram 
+```
+DEVELOPED BY: Barath S
+REG NO: 212222230018
+```
+![model](1.png)
 
 
 ### Relational model
+![model](2.png)
 
 
 ### SQL DDL Schema 
+```
+CREATE TABLE Entity
+(
+  Address INT NOT NULL,
+  Name INT NOT NULL,
+  SSN INT NOT NULL
+);
+
+CREATE TABLE Branch
+(
+  Address INT NOT NULL,
+  Affiliation INT NOT NULL,
+  Name INT NOT NULL
+);
+```
 
 ## RESULT 
 <div align="justify">
