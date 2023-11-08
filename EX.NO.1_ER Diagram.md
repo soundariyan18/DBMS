@@ -17,11 +17,13 @@
 DEVELOPED BY: SOUNDARIYAN M.N
 REG NO: 212222230146
 ```
-![model](1.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/686a5fa9-0555-4d4f-ae52-3d0390820614)
+
 
 
 ### Relational model
-![model](2.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/d8f43e5a-a81b-4eb4-908c-d800a7a94cdd)
+
 
 
 ### SQL DDL Schema 
