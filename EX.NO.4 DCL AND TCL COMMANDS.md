@@ -3,8 +3,8 @@
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 ```
-DEVELOPED BY: Barath S
-REG NO: 212222230018
+DEVELOPED BY: SOUNDARIYAN M.N
+REG NO: 212222230146
 ```
 # THEORY
 ## Data Control Language (DCL) commands
