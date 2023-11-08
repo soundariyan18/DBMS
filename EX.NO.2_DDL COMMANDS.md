@@ -22,8 +22,8 @@ To create a student database and execute DDL queries using SQL.
 
 ## Query:
 ```
-DEVELOPED BY: Barath S
-REG MO: 212222230018
+DEVELOPED BY: SOUNDARIYAN M.N
+REG MO: 212222230146
 ```
 ### 1) Create a database studentdb
 
@@ -33,7 +33,8 @@ create database student_db;
 ```
 
 ### OUTPUT:
-![model](o1.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/c8174148-168b-45aa-ba7a-318d8075aaaf)
+
 
 ### 2) Create a table student with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
@@ -44,7 +45,8 @@ create table student(Regno int,Name varchar(20),Age int,Address varchar(50),Phon
 
 
 ### OUTPUT:
-![model](o2.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/f6887924-8398-4fb6-acee-2565166008a5)
+
 
 ### 3) Alter the above student table by adding another attribute department
 
@@ -55,7 +57,8 @@ add dept varchar(20);
 ```
 
 ### OUTPUT:
-![model](o3.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/cc8d8386-d04c-483d-8207-cf62edd0bdef)
+
 
 
 ### 4) Drop the student table
@@ -67,7 +70,8 @@ drop table student;
 
 
 ### OUTPUT:
-![model](o4.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/3cdf81d9-a5ab-4705-ae02-2cf2ff1c133f)
+
 
 
 ### 5) Delete the student table using truncate keyword
@@ -79,7 +83,8 @@ truncate table student;
 
 
 ### OUTPUT:
-![model](o5.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/b4f551cd-1f51-40ec-b1fd-9a1de06bf1d2)
+
 
 
 
@@ -94,7 +99,8 @@ rename to mystudent;
 
 
 ### OUTPUT:
-![model](o6.png)
+![image](https://github.com/soundariyan18/DBMS/assets/119393307/a475705e-596f-40fd-a4b0-c5d4be004c87)
+
 
 
 ## Result:
