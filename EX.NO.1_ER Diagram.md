@@ -14,8 +14,8 @@
 
 ### ER Diagram 
 ```
-DEVELOPED BY: Barath S
-REG NO: 212222230018
+DEVELOPED BY: SOUNDARIYAN M.N
+REG NO: 212222230146
 ```
 ![model](1.png)
 
