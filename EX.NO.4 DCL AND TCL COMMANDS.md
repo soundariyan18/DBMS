@@ -1,6 +1,7 @@
 # EX.NO 4 Data Control Language (DCL) Commands and Transaction Control Languages (TCL) in SQL
 ### DATE:
 ## AIM:
+
 To create a manager database and execute DML queries using SQL.
 ```
 DEVELOPED BY: SOUNDARIYAN M.N
