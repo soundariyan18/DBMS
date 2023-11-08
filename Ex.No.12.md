@@ -36,5 +36,18 @@ Classification in data mining is a common technique that separates data points i
     ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/9d39bad9-a77c-4c72-a9bb-0031154ef0c4)
 10. A cross represents a correctly classified instance while squares represents incorrectly classified instances. At the lower left corner of the plot you see a cross that indicates if outlook is sunny then play the game. So this is a correctly classified instance.<br>
 
+## OUTPUT:
+
+![image](https://github.com/DrUmaRaniV/DBMS/assets/119393307/af101ad5-167b-42d9-8d38-dee6b78e2542)
+
+![image](https://github.com/DrUmaRaniV/DBMS/assets/119393307/dd06ed89-cd56-498a-8a06-69c0e43b1845)
+
+![image](https://github.com/DrUmaRaniV/DBMS/assets/119393307/5daac56b-99d5-429e-8e45-9aa7927c4165)
+
+![image](https://github.com/DrUmaRaniV/DBMS/assets/119393307/9d0819e0-c299-43b4-ae9c-dfc69d1749b5)
+
+![image](https://github.com/DrUmaRaniV/DBMS/assets/119393307/7a469549-89e2-4bf2-bade-345522be2f62)
+
+
 ## RESULT:
 Thus the simulation of classification technique has been executed using WEKA tool successfully.
