@@ -1,9 +1,6 @@
 # EX 5 SubQueries, Views and Joins 
-
-
 ### AIM: 
 To use SubQueries, Views and Joins 
-
 ## Create employee Table
 ```
 DEVELOPED BY: SOUNDARIYAN M.N
