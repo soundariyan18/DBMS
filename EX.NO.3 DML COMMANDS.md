@@ -14,8 +14,8 @@ To create a manager database and execute DML queries using SQL.
 4. SELECT: The SELECT command shows the records of the specified table.
 
 ```
-DEVELOPED BY: Barath S
-REG NO: 212222230018
+DEVELOPED BY: SOUNDARIYAN M.N
+REG NO: 212222230146
 ```
 ## Create the table as given below:
 ```python
